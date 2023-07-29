@@ -1,0 +1,125 @@
+    {
+    	"id": 717,
+    	"name": "2/2 Olympique Lyonnais",
+    	"description": "Olympique Lyonnais is a French professional football club based in Lyon in Auvergne-Rhône-Alpes. The men play in France's highest football division, Ligue 1. Founded in 1950, the club won its first Ligue 1 championship in 2002, starting a national record-setting streak of seven successive titles. Lyon has also won eight Trophées des Champions, five Coupes de France, and three Ligue 2 titles.\nThis part features the OL coat of arms, with \"BG87\" and \"1950\" - the two fan groups - written underneath.\nOn the left, \"Lacazette 10\" represents OL's star player, Alexandre Lacazette, who wears number 10, with his likeness just above. To the right of Lacazette's effigy is the old OL logo and just below it \"69\", which represents the number of the department in which the city of Lyon is located in France.",
+    	"links": {
+    		"website": [
+    			"https://www.ol.fr/fr",
+    			"https://en.wikipedia.org/wiki/Olympique_Lyonnais",
+    			"https://fr.wikipedia.org/wiki/Olympique_lyonnais"
+    		],
+    		"subreddit": [
+    			"OlympiqueLyonnais",
+    			"placeOL"
+    		],
+    		"discord": [
+    			"3XhhQprk"
+    		]
+    	},
+    	"path": {
+    		"88-256": [
+    			[
+    				-794,
+    				-268
+    			],
+    			[
+    				-794,
+    				-231
+    			],
+    			[
+    				-793,
+    				-229
+    			],
+    			[
+    				-779,
+    				-227
+    			],
+    			[
+    				-777,
+    				-223
+    			],
+    			[
+    				-772,
+    				-222
+    			],
+    			[
+    				-768,
+    				-227
+    			],
+    			[
+    				-753,
+    				-227
+    			],
+    			[
+    				-754,
+    				-268
+    			],
+    			[
+    				-814,
+    				-268
+    			],
+    			[
+    				-794,
+    				-268
+    			],
+    			[
+    				-794,
+    				-249
+    			],
+    			[
+    				-815,
+    				-249
+    			],
+    			[
+    				-815,
+    				-268
+    			],
+    			[
+    				-794,
+    				-268
+    			],
+    			[
+    				-794,
+    				-249
+    			],
+    			[
+    				-794,
+    				-238
+    			],
+    			[
+    				-849,
+    				-239
+    			],
+    			[
+    				-850,
+    				-248
+    			],
+    			[
+    				-815,
+    				-249
+    			],
+    			[
+    				-793,
+    				-249
+    			],
+    			[
+    				-794,
+    				-219
+    			],
+    			[
+    				-753,
+    				-219
+    			],
+    			[
+    				-753,
+    				-228
+    			]
+    		]
+    	},
+    	"center": {
+    		"88-256": [
+    			-765,
+    			-256
+    		]
+    	}
+    }
